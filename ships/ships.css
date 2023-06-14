@@ -1,0 +1,17 @@
+#title {
+    color: blue;
+    margin: 10px;
+    margin-left: 450px;
+}
+
+#description {
+    font-style: italic;
+    margin: 10px;
+    margin-left: 450px;
+}
+
+img {
+    width:1175px;
+    height: 500px;
+    margin: 10px;
+}
